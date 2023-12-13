@@ -391,7 +391,7 @@
         "type": "remote",
         "format": "source",
         "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Google.json",
-        "download_detour": "auto"
+        "download_detour": "direct"
       },
       {
         "tag": "geosite-telegram",
